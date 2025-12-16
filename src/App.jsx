@@ -574,7 +574,7 @@ function App() {
                 <div className="flex items-center gap-4">
                   {/* GitHub */}
                   <a
-                    href="https://github.com/YOUR_GITHUB"
+                    href="https://github.com/H-A-R-I-N-I-U-D-A-Y-A-K-U-M-A-R"
                     target="_blank"
                     rel="noreferrer"
                     className="w-9 h-9 rounded-full bg-white/10 flex items-center justify-center text-gray-200 hover:bg-white/20 hover:text-blue-400 transition-colors"
@@ -590,7 +590,7 @@ function App() {
 
                   {/* LinkedIn */}
                   <a
-                    href="https://www.linkedin.com/in/YOUR_LINKEDIN/"
+                    href="https://www.linkedin.com/in/harini-udayakumar-089624311/"
                     target="_blank"
                     rel="noreferrer"
                     className="w-9 h-9 rounded-full bg-white/10 flex items-center justify-center text-gray-200 hover:bg-white/20 hover:text-blue-400 transition-colors"
@@ -606,7 +606,7 @@ function App() {
 
                   {/* Mail shortcut */}
                   <a
-                    href="mailto:yourmail@example.com"
+                    href="mailto:2023harini@gmail.com"
                     className="w-9 h-9 rounded-full bg-white/10 flex items-center justify-center text-gray-200 hover:bg-white/20 hover:text-rose-400 transition-colors"
                   >
                     ✉️
